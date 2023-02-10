@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { NgIf } from '@angular/common';
-import { CheckAdminUserPipe } from './uppercase.pipe';
+import { CheckAdminUserPipe } from './check-admin.pipe';
 
 @Component({
   selector: 'app-root',
